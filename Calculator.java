@@ -2,8 +2,8 @@
 /**
  * Write a description of class Calculator here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Rizki Aulia
+ * @version 0.10
  */
 public class Calculator
 {
